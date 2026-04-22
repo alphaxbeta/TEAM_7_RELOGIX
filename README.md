@@ -1,6 +1,6 @@
-# Student Team Members Management Application
+# RELOGIX Application
 
-A full-stack web application built with **React.js**, **Node.js + Express**, and **MongoDB** for managing student team members.
+A full-stack web application built with **React.js**, **Node.js + Express**, and **MongoDB**.
 
 ---
 
